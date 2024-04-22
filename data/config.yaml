@@ -12,13 +12,13 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: false
-GitHubLink: https://github.com/Super-Cookies/duk
+GitHubLink: https://github.com/Olympic-Powerhouse/main
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  The wrong place
+  Olympiad and Competition Tutoring
 page_title:
   "O"
 links:
