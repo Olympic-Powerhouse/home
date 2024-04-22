@@ -1,0 +1,24 @@
+name: Athu Sathe
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+enableMermaid: false
+GitHubLink: https://github.com/Super-Cookies/duk
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  The wrong place
+page_title:
+  "O"
+links:
